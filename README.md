@@ -11,7 +11,7 @@ An IOS mobile application that plays the famous Wheel of Fortune game, the Playe
 
 
 
-
+<img width="250" positon = "center" alt="Screenshot 2023-09-23 at 22 58 50" src="https://github.com/ebin-sabu/Wheel-Of-Fortune/assets/49438210/68f6fd9e-0ac2-4bd5-b223-a2d509329216">
 <img width="250" positon = "center" alt="Screenshot 2023-09-23 at 22 58 50" src="https://github.com/ebin-sabu/Wheel-Of-Fortune/assets/49438210/50c57135-5546-4be5-b7db-f5f57edc5ea7">
 
 
@@ -20,6 +20,3 @@ An IOS mobile application that plays the famous Wheel of Fortune game, the Playe
 <img width="250" positon = "center" alt="Screenshot 2023-09-23 at 22 58 50" src="https://github.com/ebin-sabu/Wheel-Of-Fortune/assets/49438210/bc38f167-8171-40bb-8d8c-1d27eb69aff1">
 
 
-
-
-<img width="250" positon = "center" alt="Screenshot 2023-09-23 at 22 58 50" src="https://github.com/ebin-sabu/Wheel-Of-Fortune/assets/49438210/68f6fd9e-0ac2-4bd5-b223-a2d509329216">
